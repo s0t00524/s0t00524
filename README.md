@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+Look at https://s0t00524.github.io/s0t00524/
+
 <!--
 **s0t00524/s0t00524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Look at https://s0t00524.github.io/s0t00524/
 
 Here are some ideas to get you started:
 
